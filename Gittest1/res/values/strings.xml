@@ -3,6 +3,9 @@
 
     <string name="app_name">Gittest1</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Please enter a question and select answers that you may want</string>
+    <string name="but_Submit">Submit</string>
+    <string name="advise_questionanswer">Please enter a question and select answers that you may want</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
 
 </resources>
