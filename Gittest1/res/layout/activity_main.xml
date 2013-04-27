@@ -28,16 +28,39 @@
         android:layout_marginTop="29dp"
         android:ems="10"
         android:inputType="textMultiLine" />
+    <TextView
+        android:id="@+id/insert_answers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textQuestion"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="22dp"
+        android:text="@string/insert_answers" />
+    <EditText
+        android:id="@+id/answer_a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/insert_answers"
+        android:layout_marginTop="29dp"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+    <EditText
+        android:id="@+id/answer_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/answer_a"
+        android:layout_marginTop="29dp"
+        android:ems="10"
+        android:inputType="textMultiLine" />
 
     <Button
         android:id="@+id/submit_context"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/textView1"
-        android:layout_below="@+id/textQuestion"
+        android:layout_below="@+id/answer_b"
         android:layout_marginLeft="59dp"
         android:layout_marginTop="26dp"
         android:text="@string/but_Submit"
-        android:onClick="bufferMessage" />
+        />
 
 </RelativeLayout>

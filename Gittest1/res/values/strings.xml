@@ -7,5 +7,6 @@
     <string name="but_Submit">Submit</string>
     <string name="advise_questionanswer">Please enter a question and select answers that you may want</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="insert_answers">Please Insert Your Intended Answers</string>
 
 </resources>
