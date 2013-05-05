@@ -18,7 +18,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="16dp"
         android:layout_marginTop="22dp"
-        android:text="@string/advise_questionanswer" />
+        android:text="@string/advise_question" />
 
     <EditText
         android:id="@+id/textQuestion"
