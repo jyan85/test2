@@ -7,9 +7,11 @@
     <string name="but_Submit">Submit</string>
     <string name="advise_question">Please enter a question</string>
     <string name="advise_answer">Please enter a answer</string>
-    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_display_message">Display Message Activity</string>
     <string name="insert_answers">Please Insert Your Intended Answers</string>
+    <string name="but_addDB">Add2DB</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="Add_Picture">Add Picture?</string>
+    
 
 </resources>
